@@ -13,6 +13,7 @@ jQuery Soundcloud Player. Stream track playlist by title, tags or username.
 &lt;script src="src/scp.js"&gt;&lt;/script&gt;
 &lt;script&gt;
     scp(
+        auto_play = true, // true or false
         client_id = 'Your soundcloud client_id'
     );
 &lt;/script&gt;</pre>
